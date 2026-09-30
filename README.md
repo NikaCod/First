@@ -1,3 +1,7 @@
 # First
 
-Это мой репозиторий для операционной системы и среды
+Навигация
+- [Основы редактирования текста](/markdown.md)
+- [Mermaid](/mermaid.md)
+- [Task Mermaid](/task_mermaid.md)
+- [Task Game](/UmamusumeREAD.md)
