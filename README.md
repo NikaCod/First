@@ -8,4 +8,3 @@
 - [bash cli](/bash_cli.md)
 - [bash script](/bashscript.md)
 - [git](/Git.md)
-- [git ignore]()
