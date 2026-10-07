@@ -6,3 +6,4 @@
 - [Task Mermaid](/task_mermaid.md)
 - [Task Game](/UmamusumeREAD.md)
 - [bash cli](/bash_cli.md)
+- [bash script](/bashscript.md)
