@@ -8,3 +8,5 @@
 - [bash cli](/bash_cli.md)
 - [bash script](/bashscript.md)
 - [git](/Git.md)
+
+# Статический сайт на GitHub Pages
