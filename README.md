@@ -9,4 +9,4 @@
 - [bash script](/bashscript.md)
 - [git](/Git.md)
 
-# Статический сайт на GitHub Pages
+# Статический сайт на GitHub Pages.
