@@ -10,3 +10,9 @@
 - [git](/Git.md)
 
 # Статический сайт на GitHub Pages.
+
+- [umamusume](https://github.com/NikaCod/Umamusume-Pretty-Derpy-Club.git)
+
+# Репозиторий преподавателя
+
+- [репозиторий](https://github.com/rurewa/imfua.git)
