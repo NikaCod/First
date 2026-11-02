@@ -16,3 +16,7 @@
 # Репозиторий преподавателя
 
 - [репозиторий](https://github.com/rurewa/imfua.git)
+
+# Командный проект
+
+- [диваны мибомбо](https://github.com/demoh544/group_project_mibimbo.git)
