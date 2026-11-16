@@ -171,6 +171,8 @@ micro /usr/share/nginx/html/index.html
 
 ### отредайтируйте и сохраните по Ctrl+S и выйти из режима редактирования по Ctrl+Q
 
+![](/img/Docker5.6.png)
+
 ![](/img/Docker5.5.png)
 
 ### Выйти из контейнера:
